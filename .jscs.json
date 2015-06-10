@@ -1,6 +1,7 @@
 {
     "excludeFiles" : [
-        "**/*.json"
+        "**/*.json",
+        "**/node_modules"
     ],
     "requireSpaceAfterKeywords": ["do", "else"],
     "disallowSpaceAfterKeywords": ["if", "for", "while", "switch"],
