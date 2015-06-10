@@ -1,6 +1,6 @@
 {
+    "fileExtensions":[".js"],
     "excludeFiles" : [
-        "**/*.json",
         "**/node_modules"
     ],
     "requireSpaceAfterKeywords": ["do", "else"],
