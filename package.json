@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "jscs": "1.13.1",
+    "git-hooks": "~0.0.6"
+  }
+}
