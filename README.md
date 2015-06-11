@@ -1,2 +1,1 @@
-Add something to test.json and try to commit, jscs should lint file and show errors, but in fileExtensions '.json' is
- absent. 
+````jscs test.json```` should be no errors, so excludeFiles works for specified path. 
